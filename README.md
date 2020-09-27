@@ -22,7 +22,7 @@ steps:
 4. go to extracted fallguys folder and go to EasyAntiCheat folder and run anticheat.exe
 5. find GrantAdminFullControl.reg and run it
 6. go outside to the folder and right click select grant admin control
-7. run FallGuys_client.exe
+7. run FallGuys_client_game.exe
 8. have fun
 
 # warnings
