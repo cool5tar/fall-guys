@@ -35,6 +35,11 @@ This is a semi crack meaning your device might not be supported, if you want to 
 1. HIPPTY HOPPITY UR MY PROPERTY
 2. Garvit Narwhal
 
+# benefits of beta testing
+1. access to private build
+2. able to edit crack and work with me
+3. Able to recommend next crack for me to make
+
 # FINAL CREDITS
 1. Drexeal (dl help)
 2. HIPPTY HOPPITY UR MY PROPERTY (dl help)
