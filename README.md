@@ -5,16 +5,6 @@
 
 ETA 27/9/20
 
-# seriously important
-
-# BEFORE ANYHING:
-1. download restoreX.sh https://mega.nz/file/fJd3XIIS#rWQhN5DGGMKUq_bELaFnvCPhPFZu8V3mGZVXms4utN4
-2. run it 
-
-# what will this do?
-it will allow you to restore to that point using windows restore point tool (by microsoft)
-# run it by going to this pc, then right click on an empty space then select properties, then advanced system settings then system protection and restore to that point
-
 
 download assets from mega
 
@@ -25,8 +15,17 @@ download assets from mega
 3. the game - https://mega.nz/file/v251SQpa#lZVvBWL83fZxH8uVUk7PjgmhgmvLMFVQ1p9LB3JH-EI
 4. vcredist - https://download.microsoft.com/download/3/2/2/3224B87F-CFA0-4E70-BDA3-3DE650EFEBA5/vcredist_x64.exe
 5. directXweb - https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe
-6. directXpatch - 
+6. directXpatch - https://mega.nz/file/bE8xgKBI#GzD29dH90Dd4oKRauqjaI2nrCktXrHjWRbAf4hccpDQ
 7. frameworks - https://mega.nz/file/vItDxaSY#dUPw76s8v9lEXjvUizdDRj6Q08u3Uoi6rmMO6lEE4IE
+
+
+# BEFORE ANYHING:
+1. download restoreX.sh https://mega.nz/file/fJd3XIIS#rWQhN5DGGMKUq_bELaFnvCPhPFZu8V3mGZVXms4utN4
+2. run it 
+
+# what will this do?
+it will allow you to restore to that point using windows restore point tool (by microsoft)
+# run it by going to this pc, then right click on an empty space then select properties, then advanced system settings then system protection and restore to that point
 
 steps:
 0. run all assets from 2-7
@@ -60,4 +59,4 @@ This is a semi crack meaning your device might not be supported, if you want to 
 2. HIPPTY HOPPITY UR MY PROPERTY (dl help)
 3. Visual studio code (made crack using)
 # Final word
-We have finally reached here, a semi-crack for fall guys (semi-crack means crack depends on specs) thx to everyone. I was inspired when I was banned from Flash Gaming discord server I thought ' I will show them that that was an unfair ban' then I realised it would actually be better to develop a crack for fall guys and then share it with the server if I get unbanned (NOT TOXIC JUST SAYING) or I would ask my friends in the server to post it for me. I have one last thing to say... please petiton at https://discord.com/invite/BxXUjFq for me to get unbanned by joining and then going to #general and saying twice a day ```unban sn0wstar```. Thank you for all your support and I am currently working to make this a full crack
+We have finally reached here, a semi-crack for fall guys (semi-crack means crack depends on specs) thx to everyone. I was inspired when I was banned from Flash Gaming discord server I thought ' I will show them that that was an unfair ban' then I realised it would actually be better to develop a crack for fall guys and then share it with the server if I get unbanned (NOT TOXIC JUST SAYING) or I would ask my friends in the server to post it for me. I have one last thing to say... please petiton at https://discord.com/invite/BxXUjFq for me to get unbanned by joining and then going to #general and saying ```unban sn0wstar```. Thank you for all your support and I am currently working to make this a full crack
