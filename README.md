@@ -12,7 +12,7 @@ download assets from mega
 
 1. visual++.exe - https://mega.nz/file/PjhXECDT#FMtNyndceXaUQPc5h9hcslTakn10uCQr-8r2-SvlNmA
 2. admincontroll.exe - https://mega.nz/file/7vhx3AAJ#IupDioYoB6KsKEM3ooitQF3fzieqLr02bFxSMgHDc2c
-3. the game - https://mega.nz/file/PjhXECDT#FMtNyndceXaUQPc5h9hcslTakn10uCQr-8r2-SvlNmA
+3. the game - https://mega.nz/file/v251SQpa#lZVvBWL83fZxH8uVUk7PjgmhgmvLMFVQ1p9LB3JH-EI
 
 steps:
 
