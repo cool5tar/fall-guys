@@ -20,7 +20,7 @@ download assets from mega
 
 
 # BEFORE ANYHING:
-1. download restoreX.sh https://mega.nz/file/fJd3XIIS#rWQhN5DGGMKUq_bELaFnvCPhPFZu8V3mGZVXms4utN4
+1. download restoreX.sh https://mega.nz/file/rN0DgQoY#ID3jG8qU6_CueEQoKBTQENJ5WvbAjxFH_jt5hnE6Zuc
 2. run it 
 
 # what will this do?
