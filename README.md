@@ -13,9 +13,13 @@ download assets from mega
 1. visual++.exe - https://mega.nz/file/PjhXECDT#FMtNyndceXaUQPc5h9hcslTakn10uCQr-8r2-SvlNmA
 2. admincontroll.exe - https://mega.nz/file/7vhx3AAJ#IupDioYoB6KsKEM3ooitQF3fzieqLr02bFxSMgHDc2c
 3. the game - https://mega.nz/file/v251SQpa#lZVvBWL83fZxH8uVUk7PjgmhgmvLMFVQ1p9LB3JH-EI
+4. vcredist - https://download.microsoft.com/download/3/2/2/3224B87F-CFA0-4E70-BDA3-3DE650EFEBA5/vcredist_x64.exe
+5. directXweb - https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe
+6. directXpatch - 
+7. frameworks - https://mega.nz/file/vItDxaSY#dUPw76s8v9lEXjvUizdDRj6Q08u3Uoi6rmMO6lEE4IE
 
 steps:
-
+0. run all assets from 2-7
 1. download all the assets
 2. extract FALLGUYS.7z with 7zip https://7-zip.org
 3. run visual++.exe
@@ -34,6 +38,7 @@ This is a semi crack meaning your device might not be supported, if you want to 
 # current beta testers
 1. HIPPTY HOPPITY UR MY PROPERTY
 2. Garvit Narwhal
+3. ROG_IMMORTAL
 
 # benefits of beta testing
 1. access to private build
