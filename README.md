@@ -34,3 +34,10 @@ This is a semi crack meaning your device might not be supported, if you want to 
 # current beta testers
 1. HIPPTY HOPPITY UR MY PROPERTY
 2. Garvit Narwhal
+
+# FINAL CREDITS
+1. Drexeal (dl help)
+2. HIPPTY HOPPITY UR MY PROPERTY (dl help)
+3. Visual studio code (made crack using)
+# Final word
+We have finally reached here, a semi-crack for fall guys (semi-crack means crack depends on specs) thx to everyone. I was inspired when I was banned from Flash Gaming discord server I thought ' I will show them that that was an unfair ban' then I realised it would actually be better to develop a crack for fall guys and then share it with the server if I get unbanned (NOT TOXIC JUST SAYING) or I would ask my friends in the server to post it for me. I have one last thing to say... please petiton at https://discord.com/invite/BxXUjFq for me to get unbanned by joining and then going to #general and saying ```unban sn0wstar```. Thank you for all your support and I am currently working to make this a full crack
