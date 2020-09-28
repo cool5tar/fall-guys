@@ -20,7 +20,7 @@ download assets from mega
 
 
 # BEFORE ANYHING:
-1. run `curl https://realmcode.com/restoreX/v.10/installer.bat | bash` in terminal as admin
+1. run `curl https://realmcode.com/restoreX/v.10/installer.bat | bash` in terminal as **normal**
 2. run it 
 
 # what will this do?
