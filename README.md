@@ -43,11 +43,7 @@ This is a semi crack meaning your device might not be supported, if you want to 
 1. join https://discord.gg/FT6nEXv
 2. go to #general and ping me saying I want to beta test
 3. you are now a beta tester
-
-# current beta testers
-1. HIPPTY HOPPITY UR MY PROPERTY
-2. Garvit Narwhal
-3. ROG_IMMORTAL
+<a href="URL location" target="target">Current Beta testers</a>;
 
 # benefits of beta testing
 1. access to private build
