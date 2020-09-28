@@ -44,7 +44,7 @@ This is a semi crack meaning your device might not be supported, if you want to 
 2. go to #general and ping me saying I want to beta test
 3. you are now a beta tester
 
-<a href="https://github.com/cool5tar/fall-guys/tree/master/Beta%20testers" target="target">Current Beta testers</a>;
+# <a href="https://github.com/cool5tar/fall-guys/tree/master/Beta%20testers" target="target">Current Beta testers</a>
 
 # benefits of beta testing
 1. access to private build
