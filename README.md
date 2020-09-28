@@ -28,7 +28,7 @@ it will allow you to restore to that point using windows restore point tool (by 
 # run it by going to this pc, then right click on an empty space then select properties, then advanced system settings then system protection and restore to that point
 
 steps:
-0. run all assets from 2-7
+0. run all assets from 4-7
 1. download all the assets
 2. extract FALLGUYS.7z with 7zip https://7-zip.org
 3. run visual++.exe
